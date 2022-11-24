@@ -1,0 +1,12 @@
+.box{
+    width: 85px;
+    height: 85px;
+    background-color: blueviolet;
+    color: whitesmoke;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 85px;
+    margin: 5px;
+    float: left;
+}
